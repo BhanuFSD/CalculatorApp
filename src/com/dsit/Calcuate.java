@@ -6,4 +6,5 @@ public interface Calcuate {
 
 	public int subtract(int param1, int param2);
 	
+	public int multiply(int param1, int param2);
 }
